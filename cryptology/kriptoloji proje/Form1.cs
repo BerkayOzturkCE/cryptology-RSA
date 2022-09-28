@@ -10,7 +10,7 @@ namespace kriptoloji_proje
     {
         //RSA için gereken global değişkenler
 
-        int p = 11, q = 197; //p ve q asal sayılarını tanımladık.
+        int p = 11, q = 127; //p ve q asal sayılarını tanımladık.
         int e = 107; //public key tanımlandı.
         int totient, n;
 
