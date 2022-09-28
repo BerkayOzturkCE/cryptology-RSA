@@ -28,3 +28,14 @@ E:\visual studio c#\Cryptology\cryptology\kriptoloji proje\obj\Debug\17010011067
 E:\visual studio c#\Cryptology\cryptology\kriptoloji proje\obj\Debug\17010011067.csproj.CoreCompileInputs.cache
 E:\visual studio c#\Cryptology\cryptology\kriptoloji proje\obj\Debug\kriptoloji proje.exe
 E:\visual studio c#\Cryptology\cryptology\kriptoloji proje\obj\Debug\kriptoloji proje.pdb
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\bin\Debug\kriptoloji proje.exe.config
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\bin\Debug\kriptoloji proje.exe
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\bin\Debug\kriptoloji proje.pdb
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\17010011067.csproj.AssemblyReference.cache
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\17010011067.csproj.SuggestedBindingRedirects.cache
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\kriptoloji_proje.form.resources
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\kriptoloji_proje.Properties.Resources.resources
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\17010011067.csproj.GenerateResource.cache
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\17010011067.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\kriptoloji proje.exe
+C:\Users\brozt\Desktop\VsData\kripto\cryptology\kriptoloji proje\obj\Debug\kriptoloji proje.pdb
