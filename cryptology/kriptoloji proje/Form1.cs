@@ -10,8 +10,10 @@ namespace kriptoloji_proje
     {
         //RSA için gereken global değişkenler
 
-        int p = 11, q = 127; //p ve q asal sayılarını tanımladık.
+        int p = 11, q = 127; //p ve q asal sayılarını tanımladık
+                             //.
         int e = 107; //public key tanımlandı.
+
         int totient, n;
 
 
@@ -22,6 +24,7 @@ namespace kriptoloji_proje
         private void Form1_Load(object sender, EventArgs e)
         {
             totient = (p - 1) * (q - 1); // totient sayısı hesaplandı.
+
              n = p * q; // n base değerini bulduk.
         }
 
